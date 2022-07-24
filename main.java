@@ -33,11 +33,14 @@ class Test {
         }
 		public static void main( String [] args )
     {
-        System.out.print("Passing ");
-        int[] A = {0,1,2,3,2};
-        PrintArray(A);
-        A = NonZeros(A);
-        System.out.print(" got back ");
-        PrintArray(A);
-	}
+    //     System.out.print("Passing ");
+    //     int[] A = {0,1,2,3,2};
+    //     PrintArray(A);
+    //     A = NonZeros(A);
+    //     System.out.print(" got back ");
+    //     PrintArray(A);
+	// }
+    long k = 5.6;
+    System.out.print(k);
+
 }
